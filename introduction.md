@@ -1,5 +1,7 @@
 We encountered some pauses where we needed to supplement our existing knowledge. Here are the resources that we used to complete our project in a timely manner.
 
+[GitBook API Reference](https://www.gitbook.com/book/gitbookio/api-guide/details)
+
 [GitBook Documentation](https://github.com/GitbookIO/gitbook)
 
 [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
