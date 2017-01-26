@@ -2,6 +2,7 @@
     "plugins": [
         "theme-faq",
         "-fontsettings",
-        "-sharing"
+        "-sharing",
+        "youtube"
     ]
 }
