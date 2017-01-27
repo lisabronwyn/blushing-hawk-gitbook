@@ -1,6 +1,6 @@
 # Summary
 
 * [Goal Details](README.md)
-* [Introduction](resources-we-used.md)
-* [Resources Used](introduction.md)
+* [Intro](introduction.md)
+* [Resources Used](resources-we-used.md)
 
