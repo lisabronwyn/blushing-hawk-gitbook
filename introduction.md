@@ -6,6 +6,8 @@ We encountered some pauses where we needed to supplement our existing knowledge.
 
 [Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+[Customizing GitBook Themes](https://github.com/GitbookIO/gitbook/blob/master/docs/themes/README.md)
+
 [Team Treehouse's NPM Basics](https://teamtreehouse.com/library/npm-basics)
 
 [Can I host my GitBook on Github?](https://help.gitbook.com/github/can-i-host-on-github.html)
