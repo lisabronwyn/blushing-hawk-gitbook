@@ -1,5 +1,7 @@
 We encountered some pauses where we needed to supplement our existing knowledge. Here are the resources that we used to complete our project in a timely manner.
 
+Please note that there were many issues involving configuration in getting GitBooks to work with GitHub. There were many permissions issues, branch issues, and more. TheLady and I agreed that if you're lookign   
+
 [GitBook API Reference](https://www.gitbook.com/book/gitbookio/api-guide/details)
 
 [GitBook Documentation](https://github.com/GitbookIO/gitbook)
@@ -17,3 +19,4 @@ We encountered some pauses where we needed to supplement our existing knowledge.
 [Uninstalling local packages via NPM](https://docs.npmjs.com/getting-started/uninstalling-local-packages)
 
 [Creating an access token for command line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
+
