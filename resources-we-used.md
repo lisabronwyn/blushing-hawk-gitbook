@@ -1,22 +1,27 @@
-We encountered some pauses where we needed to supplement our existing knowledge. Here are the resources that we used to complete our project in a timely manner.
+We encountered some pauses where we needed to supplement our existing knowledge. Here are the resources that we used to complete our project promptly.
 
-Please note that there were many issues involving configuration in getting GitBooks to work with GitHub. There were many permissions issues, branch issues, and more. TheLady and I agreed that if you're lookign   
+Please note that there were many issues involving configuration in getting GitBooks to work with GitHub. There were many permissions issues, branch issues, and more. TheLady and I agreed that if you're looking for a robust and user intuitive platform to host your book, documentation, blogs, and more, that this is not the platform that you're looking for.
 
-[GitBook API Reference](https://www.gitbook.com/book/gitbookio/api-guide/details)
+The integration problems that we had throughout the week were constant and plentiful. There were a lot of missing pieces between GitHub and GitBook and they interfered with collaboration rather than supporting it.
 
-[GitBook Documentation](https://github.com/GitbookIO/gitbook)
+The goal of the project was to work around the integration problems and develop a workflow that took those into consideration.
 
-[Github Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+​[GitBook API Reference](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​  
 
-[Customizing GitBook Themes](https://github.com/GitbookIO/gitbook/blob/master/docs/themes/README.md)
 
-[Team Treehouse's NPM Basics](https://teamtreehouse.com/library/npm-basics)
+​[GitBook Documentation](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
 
-[Can I host my GitBook on Github?](https://help.gitbook.com/github/can-i-host-on-github.html)
+​[Github Markdown Cheatsheet](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
 
-[GitBook video tutorial on YouTube](https://www.youtube.com/watch?v=X_npbLCNuSo)
+​[Customizing GitBook Themes](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
 
-[Uninstalling local packages via NPM](https://docs.npmjs.com/getting-started/uninstalling-local-packages)
+​[Team Treehouse's NPM Basics](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
 
-[Creating an access token for command line use](https://help.github.com/articles/creating-an-access-token-for-command-line-use/)
+​[Can I host my GitBook on Github?](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
+
+​[GitBook video tutorial on YouTube](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
+
+​[Uninstalling local packages via NPM](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
+
+​[Creating an access token for command line use](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
 
