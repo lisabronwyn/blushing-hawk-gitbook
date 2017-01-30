@@ -1,6 +1,4 @@
-***TESTING***
-
-My recently completed first course on FEM is Introduction to JavaScript and jQuery.
+My recently completed first course on FrontEndMasters is Introduction to JavaScript and jQuery.
 
 **Note:** _This course (came out in 2012) is still valuable, but has been superseded by our comprehensive, Introduction to Web Development course._
 

@@ -6,7 +6,7 @@ The integration problems that we had throughout the week were constant and plent
 
 The goal of the project was to work around the integration problems and develop a workflow that took those into consideration.
 
-\# A Note on Blogs and Databases
+# A Note on Blogs and Databases
 
 Although GitBook has some improvements to make before becoming a useful tool for collaborating with another person, it still works as a blog hosting solution. If you are using GitBook, you can put your blog on the Web without using Heroku or manually setting up hosting. However, if you are hosting your own blog, you might consider using Javascript and/or Python to store your blog contents in a SQL database.
 
@@ -31,4 +31,3 @@ Happy blogging!
 ​[Uninstalling local packages via NPM](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
 
 ​[Creating an access token for command line use](https://www.gitbook.com/book/lisabronwyn/gitbook-documentation/edit#)​
-
